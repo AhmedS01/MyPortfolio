@@ -5,6 +5,7 @@
     projectImage: ProjectImage;
     projectPreview: ProjectPreview;
     projectSourceCode: ProjectSourceCode;
+    projectRapport:Projectrapport;
     skills: [string];
   }
 
@@ -18,6 +19,10 @@
     url: string;
   }
 
+  export interface Projectrapport {
+    description: string;
+    url: string;
+  }
   export interface ProjectSourceCode {
     description: string;
     url: string;

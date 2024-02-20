@@ -9,6 +9,8 @@
           class="button btn">{{project.projectPreview.description}}</a>
         <a href="{{project.projectSourceCode.url}}" target="_blank"
           class="button btn">{{project.projectSourceCode.description}}</a>
+        <a *ngIf="project.projectRapport" href=" {{project.projectRapport.url}}" target="_blank"
+        class="button btn">{{project.projectRapport.description}}</a>
       </div>
       <p class="description">{{project.description}}</p>
       <p class="techHeading">Technologies Used:</p>

@@ -28,91 +28,65 @@
     ]
   },
   {
-    "title": "Elephant Resort",
-    "description": "Site for booking hotel rooms and booking management",
+    "title": "Twizzy",
+    "description": "App for detecting and recognizing traffic signs",
 
     "projectImage": {
-      "src": "assets/images/elephantResort16_9.png",
+      "src": "assets/images/twizzy.png",
       "alt": "Eelphant Resort project screenshot"
     },
 
     "projectPreview": {
       "description": "View",
-      "url": "http://elephantresort.ap-southeast-2.elasticbeanstalk.com/"
+      "url": "assets/images/twizzy.png"
     },
 
     "projectSourceCode": {
       "description": "View on Github",
-      "url": "https://github.com/lenzoburger/ElephantResort"
+      "url": "https://github.com/AhmedS01/Twizzy"
     },
+    
+ 
 
     "skills": [
-        "Amazon Web Services (AWS)",
+        "Java",
         "Linux",
-        "Apache",
+        "OpenCv",
         "Mysql",
-        "Php",
-        "Javascript, JQuery",
-        "HTML, CSS, XML",
+        "HTML, CSS",
         "Adobe Illustrator"
     ]
   },
 
-  {
-    "title": "Ethio Trade",
-    "description": "Web application for buying and selling goods",
-
-    "projectImage": {
-      "src": "assets/images/EthioTrade16_9.png",
-      "alt": "Ethio Trade project screenshot"
-    },
-
-    "projectPreview": {
-      "description": "Preview",
-      "url": "assets/images/EthioTrade.png"
-    },
-
-    "projectSourceCode": {
-      "description": "View on Github",
-      "url": "https://github.com/lenzoburger/EthioTrade"
-    },
-
-    "skills": [
-        "C#, ASP.NET Core",
-        "Angular 7",
-        "Entity Framework Core",
-        "SQLite",
-        "Cloudinary- Cloud Photo Storage",
-        "Node.js",
-        "HTML, CSS, Bootstrap"
-    ]
-  },
 
   {
-    "title": "Search Engine Automation",
+    "title": "Sentiment Analysis",
     "description": "Automated Testing of search engines with custom made selenium c# framework.",
 
     "projectImage": {
-      "src": "assets/images/searchEngineAutomation16_9.png",
+      "src": "assets/images/sentanal.png",
       "alt": "Search Engine Automation project screenshot"
     },
 
     "projectPreview": {
       "description": "Preview",
-      "url": "assets/images/searchEngineAutomation.png"
+      "url": "assets/images/sentanal.png"
     },
 
     "projectSourceCode": {
       "description": "View on Github",
-      "url": "https://github.com/lenzoburger/SearchEngineAutomation"
+      "url": "https://github.com/AhmedS01/Sentiment-Analysis"
+    },
+    "projectRapport":{
+      "description":"Project Rapport",
+      "url":"https://drive.google.com/file/d/1396NjjwaSboRheRmpVlchgYe4EwrB9JU/view?usp=sharing"
+
     },
 
     "skills": [
-        ".NET Framework",
-        "C#",
-        "Selenium",
-        "Batch",
-        "MSTest Unit Test Framework",
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
         "JSON, CSV"
     ]
   },
@@ -122,7 +96,7 @@
     "description": "Personal portfolio of previous & current projects",
 
     "projectImage": {
-      "src": "assets/images/personalPortfolio16_9.png",
+      "src": "assets/images/portfolio.png",
       "alt": "Personal Portfolio project screenshot"
     },
 
