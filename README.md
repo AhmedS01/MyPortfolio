@@ -1,7 +1,8 @@
 # [MyPortfolio](https://AhmedS01.github.io/MyPortfolio/home)
 
-Personal Portfolio [Website](https://lenzoburger.github.io/MyPortfolio/home) - Angular 8
+Personal Portfolio [Website](https://ahmeds01.github.io/Myportfolio/home) - Angular 8
 
+![alt text](assets/images/portfolio.png)
 
 ### Dependencies
 1. [Node.js](https://nodejs.org/en/download) (v10+)
