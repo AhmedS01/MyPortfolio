@@ -1,8 +1,7 @@
-# [MyPortfolio](https://lenzoburger.github.io/MyPortfolio/home)
+# [MyPortfolio](https://AhmedS01.github.io/MyPortfolio/home)
 
 Personal Portfolio [Website](https://lenzoburger.github.io/MyPortfolio/home) - Angular 8
 
-![alt text](src/assets/images/snapshot.png)
 
 ### Dependencies
 1. [Node.js](https://nodejs.org/en/download) (v10+)
@@ -11,7 +10,7 @@ Personal Portfolio [Website](https://lenzoburger.github.io/MyPortfolio/home) - A
 
 ### Clone & Run
 1. Install dependencies
-2. Clone repo `https://github.com/lenzoburger/MyPortfolio.git`
+2. Clone repo `https://github.com/AhmedS01/MyPortfolio.git`
 3. Change directory `cd MyPortfolio`
 4. Restore app dependencies/_node-modules_ `npm install`
 5. Run app: `ng serve --open`
@@ -24,7 +23,7 @@ _**Auto Commit & Deploy**_
 
 _**Manual**_
 
-1. In cmd/terminal run:`ng build --prod --base-href "https://lenzoburger.github.io/MyPortfolio/"`
+1. In cmd/terminal run:`ng build --prod --base-href "https://AhmedS01.github.io/MyPortfolio/"`
 2. Replace `<COMMIT MESSAGE>` and run `npx ngh --dir=dist/MyPortfolio --message="<COMMIT MESSAGE>"`
 
 ### Tools
