@@ -102,12 +102,12 @@
 
     "projectPreview": {
       "description": "View",
-      "url": "https://lenzoburger.github.io/MyPortfolio/"
+      "url": "https://ahmeds01.github.io/Myportfolio"
     },
 
     "projectSourceCode": {
       "description": "View on Github",
-      "url": "https://github.com/lenzoburger/MyPortfolio"
+      "url": "https://github.com/AhmedS01/Myportfolio"
     },
 
     "skills": [
@@ -146,34 +146,6 @@
         "Adobe Illustrator",
         "2D physics",
         "2D Sorting"
-    ]
-  },
-
-  {
-    "title": "Species Evolution",
-    "description": "2D life simulation using genetic algorithms and machine learning.",
-
-    "projectImage": {
-      "src": "assets/images/SpeciesEvolutionCrop16_9.png",
-      "alt": "Species Evolution project screenshot"
-    },
-
-    "projectPreview": {
-      "description": "Preview",
-      "url": "assets/images/speciesEvolution.png"
-    },
-
-    "projectSourceCode": {
-      "description": "View on Github",
-      "url": "https://github.com/lenzoburger/SpeciesEvolution"
-    },
-
-    "skills": [
-        "Java",
-        "Java Swing",
-        "Genetic Algorithm",
-        "Machine Learning",
-        "Git"
     ]
   },
 
