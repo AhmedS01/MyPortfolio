@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Landmark Remark",
+    "description": "Web-App for placing location marker notes on google maps",
+
+    "projectImage": {
+      "src": "assets/images/landmarkRemark16x9.png",
+      "alt": "Landmark Remark project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "Preview",
+      "url": "assets/images/landmarkRemark.png"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/lenzoburger/landmark-remark-webApp"
+    },
+
+    "skills": [
+        "ASP.NET Core 2.2",
+        "Angular 7",
+        "Entity Framework Core",
+        "SQLite",
+        "HTML, CSS, Bootstrap",
+        "Angular Google Maps(Agm)"
+    ]
+  },
+  {
+    "title": "Twizzy",
+    "description": "App for detecting and recognizing traffic signs",
+
+    "projectImage": {
+      "src": "assets/images/twizzy.png",
+      "alt": "Eelphant Resort project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "View",
+      "url": "assets/images/twizzy.png"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/AhmedS01/Twizzy"
+    },
+    
+ 
+
+    "skills": [
+        "Java",
+        "Linux",
+        "OpenCv",
+        "Mysql",
+        "HTML, CSS",
+        "Adobe Illustrator"
+    ]
+  },
+
+
+  {
+    "title": "Sentiment Analysis",
+    "description": "Automated Testing of search engines with custom made selenium c# framework.",
+
+    "projectImage": {
+      "src": "assets/images/sentanal.png",
+      "alt": "Search Engine Automation project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "Preview",
+      "url": "assets/images/sentanal.png"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/AhmedS01/Sentiment-Analysis"
+    },
+    "projectRapport":{
+      "description":"Project Rapport",
+      "url":"https://drive.google.com/file/d/1396NjjwaSboRheRmpVlchgYe4EwrB9JU/view?usp=sharing"
+
+    },
+
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "JSON, CSV"
+    ]
+  },
+
+  {
+    "title": "Personal Portfolio",
+    "description": "Personal portfolio of previous & current projects",
+
+    "projectImage": {
+      "src": "assets/images/portfolio.png",
+      "alt": "Personal Portfolio project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "View",
+      "url": "https://ahmeds01.github.io/Myportfolio"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/AhmedS01/Myportfolio"
+    },
+
+    "skills": [
+        "Angular 8",
+        "Node.Js",
+        "HTML, SASS/SCSS",
+        "CSS Grid, Bootstrap 4",
+        "JSON",
+        "Github Pages"
+    ]
+  },
+
+  {
+    "title": "Dreamatorium",
+    "description": "A 2D puzzle/adventure platformer game.",
+
+    "projectImage": {
+      "src": "assets/images/dreamscape16_9.jpg",
+      "alt": "Dreamatorium game project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "Play",
+      "url": "http://www.cs.otago.ac.nz/cosc360/game-projects-dreamatorium.php/#unityPlayer"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/lenzoburger/Dreamatorium"
+    },
+
+    "skills": [
+        "Unity Game Engine",
+        "Javascript/UnityScript",
+        "Mercurial",
+        "Adobe Illustrator",
+        "2D physics",
+        "2D Sorting"
+    ]
+  },
+
+  {
+    "title": "Problem Solving 326",
+    "description": "Series of solutions to programming and mathematical problems with time complexity (Big O) constraints",
+
+    "projectImage": {
+      "src": "assets/images/problemSolving326_16_9.png",
+      "alt": "Problem Solving 326 project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "Preview",
+      "url": "assets/images/problemSolving326.png"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/lenzoburger/ProblemSolving326"
+    },
+
+    "skills": [
+        "Java",
+        "Java Swing",
+        "Mathematical models",
+        "Data Structures",
+        "Graph Algorithms",
+        "Sorting & Searching algorithms",
+        "Heuristic algorithms",
+        "Randomized algorithms"
+    ]
+  }
+]
